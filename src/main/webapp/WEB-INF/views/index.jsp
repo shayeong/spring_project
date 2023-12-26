@@ -20,7 +20,7 @@ img {
 <div class="container mt-2">
     <p class='mt-2'>
     <a href="/contents/mainlist/1" class='text-black text-decoration-none'><i class="fa-solid fa-shirt"></i> SHOP NOW</a></p>
-    <img src="/images/jeans.jpg" alt="Jeans" class="img-thumbnail">
+    <img src="/images/main.jpg" alt="Jeans" class="img-thumbnail">
     
 </div>
     
